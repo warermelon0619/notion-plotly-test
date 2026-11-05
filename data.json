@@ -29,6 +29,16 @@
       "date": "2026-11-08",
       "value": 140,
       "note": "Claude 排程自動同步測試"
+    },
+    {
+      "date": "2026-11-09",
+      "value": 150,
+      "note": "Claude 排程 Sheets 寫入測試"
+    },
+    {
+      "date": "2026-11-10",
+      "value": 160,
+      "note": "Claude 完整排程整合測試"
     }
   ]
 }
