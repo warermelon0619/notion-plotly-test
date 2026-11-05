@@ -19,6 +19,11 @@
       "date": "2026-11-06",
       "value": 120,
       "note": "測試 Looker Studio 自動更新"
+    },
+    {
+      "date": "2026-11-07",
+      "value": 130,
+      "note": "JSON 自動更新測試"
     }
   ]
 }
